@@ -17,3 +17,4 @@ end
 
 printer("here is some data")
 printHigher(100,99, printer)
+printHigher(10.01,10.001, printer)
